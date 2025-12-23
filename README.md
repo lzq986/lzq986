@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm **lzq**, a Software Engineer with **4 years of experience** in backend development. 
+
+🚀 **Passion:** I have a deep passion for **Artificial Intelligence** and Open Source. 
+Currently, I am focusing on building intelligent agents and data-driven solutions.
+
+🛠️ **Current Project:**
+I am the contributor of **[DataAgent](https://github.com/spring-ai-alibaba/DataAgent)**, a project powered by Spring AI Alibaba designed to make data analysis smarter.
+
+- 🔭 I’m currently working on **DataAgent**.
+- 🌱 I’m currently exploring **LLM Agents** and **RAG architectures**.
+- 💬 Ask me about **Java, Spring Boot, and AI integration**.
