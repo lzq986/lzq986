@@ -29,6 +29,9 @@ I am the contributor of **[DataAgent](https://github.com/spring-ai-alibaba/DataA
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lzq986&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180px" alt="lzq986's stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzq986&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180px" alt="lzq986's languages" />
+  <!-- 加上了 include_all_commits=true 让你的提交数更准确 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lzq986&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&include_all_commits=true" height="180px" alt="lzq986's stats" />
+  
+  <!-- 加上了 include_forks=true 让它去扫描你 Fork 的仓库里的 Java 代码 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzq986&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&include_forks=true" height="180px" alt="lzq986's languages" />
 </div>
