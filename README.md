@@ -25,3 +25,10 @@ I am the contributor of **[DataAgent](https://github.com/spring-ai-alibaba/DataA
 - 🔭 I’m currently working on **DataAgent**.
 - 🌱 I’m currently exploring **LLM Agents** and **RAG architectures**.
 - 💬 Ask me about **Java, Spring Boot, and AI integration**.
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lzq986&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180px" alt="lzq986's stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzq986&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180px" alt="lzq986's languages" />
+</div>
